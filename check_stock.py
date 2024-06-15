@@ -2,9 +2,9 @@
 '''
 import
 class def:
-stock data field
-get stock data method
-set stock data method
-update stock method
-check stock method
+    stock data field
+    get stock data method
+    set stock data method
+    update stock method
+    check stock method
 '''
