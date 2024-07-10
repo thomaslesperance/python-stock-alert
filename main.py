@@ -13,7 +13,7 @@ from sys import argv
 
 interval_arg = argv[1]
 percent_arg = argv[2]
-stock_symbol_arg = argv[3]
+stock_symbol_arg = argv[3] # 'AAPL' is Apple, for example
 email_server_arg = argv[4]
 # ...
 # script argument n = argv[n]
